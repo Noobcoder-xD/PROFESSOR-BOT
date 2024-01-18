@@ -8,16 +8,16 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/TheMenMaker>Kᴀᴋᴀsʜɪ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/VAMSIREDDY25>VR</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴘᴠʀ ᴍᴏᴠɪᴇs-ʙᴏᴛ ᴠ4.5.0</b>"""
+✯ Mʏ Sᴇʀᴠᴇʀ: Private Vps
+✯ Mʏ Vᴇʀꜱɪᴏɴ: VR BOT ᴠ5.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ ◉› :<a href=https://t.me/TheMenMaker>ᴋᴀᴋᴀsʜɪ</a>
+- ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ ◉› :<a href=https://t.me/vamsireddy25>VR</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/themenmaker>Kᴀᴋᴀsʜɪ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/VAMSIREDDY25>VR</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
